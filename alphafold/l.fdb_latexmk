@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1726079053.44125 "c:/Users/mungs/Desktop/alphas/alphafold/l.tex" "l.pdf" "l" 1726079054.65695 0
+  "c:/Users/mungs/Desktop/alphas/alphafold/l.tex" 1726079037 152 e44890f7a65e431406383d390ccd48f0 ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1722479659 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1722484086 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1722484086 8448 358bf3de18513f057a13bdc6e6770c41 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1722484041 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1722479433 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
+  "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722489238 5529061 543042243f35af3474d78b11ac263772 ""
+  "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722489517 8239198 3275202382b532de96c97e4a14d61910 ""
+  "c:/texlive/2024/texmf.cnf" 1722489205 713 e69b156964470283e0530f5060668171 ""
+  "l.aux" 1726079054 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "l.tex" 1726079037 152 e44890f7a65e431406383d390ccd48f0 ""
+  (generated)
+  "l.aux"
+  "l.log"
+  "l.pdf"
+  (rewritten before read)
